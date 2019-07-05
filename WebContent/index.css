@@ -1,0 +1,49 @@
+body,html{
+    height:100%;
+    overflow:hidden;
+}
+body{
+    background:url(web_login_bg.jpg) no-repeat center;
+    background-size: cover;
+}
+
+table {
+    font-family: verdana,arial,sans-serif;
+    font-size:11px;
+    color:#333333;
+    border-width: 1px;
+    border-color: #666666;
+    border-collapse: collapse;
+    width:50%;
+}
+table th {
+    border-width: 1px;
+    padding: 20px;
+    border-style: solid;
+    border-color: #666666;
+    background-color: #dedede;
+}
+table td {
+    border-width: 1px;
+    padding: 20px;
+    border-style: solid;
+    border-color: #666666;
+    background-color: #ffffff;
+    
+}
+table tr {
+   
+    padding: 20px;
+    
+}
+a:-webkit-any-link {
+    color: #27575;
+    cursor: pointer;
+    text-decoration:none;
+}
+#tj{
+	margin-left:850px;
+	color: #27575;
+	
+}
+
